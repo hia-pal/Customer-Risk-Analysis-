@@ -13,17 +13,33 @@ Objective
 Create dashboard using MS Excel
 
 Lessons
+
 1 Create background in Power Point
+
 2 Import data in Excel
+
 3 Create dashboard
+
   3.1 Enter Measurement using DAX
+  
   3.2 Insert Pivot
+  
   3.3 Insert Slicer
+  
      3.3.1 Report Slicer Connections
+     
      3.3.2 Format/Redesign Slicer
+  
   3.4 Insert Chart
+     
      3.4.1 Bar Chart 
+     
      3.4.2 Pie Chart 
+     
      3.4.3 Combo Chart 
+     
      3.4.4 Big Number Chart
+     
      3.4.5 Clean and format charts
+
+
